@@ -69,6 +69,7 @@ const LeftButton = styled.div`
   text-transform: uppercase;
   font-size: 12px;
   margin: 8px;
+  cursor: pointer;
 `;
 
 const RightButton = styled(LeftButton)`
